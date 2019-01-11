@@ -1,0 +1,19 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.315ec71c-61e2-4c12-9cfa-0b5e274e625f",
+      "was_cloned": false,
+      "merge": {
+        "skillManifest": {
+          "apis": {
+            "custom": {
+              "endpoint": {
+                "uri": "ask-custom-DepressionTest"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

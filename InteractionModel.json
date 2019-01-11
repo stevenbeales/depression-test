@@ -1,0 +1,39 @@
+{
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.PauseIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StartOverIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AnswerIntent",
+          "samples": ["One", "Two", "Three", "Four"]
+        },
+        {
+          "name": "TestIntent",
+          "samples": [
+            "start a test",
+            "start an assessment",
+            "start test" 
+          ]
+        }
+      ],
+      "types": [
+     
+      ]
+}
